@@ -1,0 +1,16 @@
+{
+"companyName": "Prateek Developers",
+"productName": "CUBE DODGE",
+"productVersion": "2.0",
+"dataUrl": "WebGl.data.unityweb",
+"wasmCodeUrl": "WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
